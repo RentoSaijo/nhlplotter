@@ -1,0 +1,19 @@
+Package: nhlplotter
+Title: Plotter for National Hockey League Data
+Version: 0.0.0.9000
+Authors@R: person('Rento', 'Saijo', email = 'rentosaijo0527@gmail.com', role = c('aut', 'cre', 'cph'), comment = c(ORCID = '0009-0008-4919-7349'))
+Description: Visualizes NHL data from the companion R package `nhlscraper` and provides tools for custom and preset plots.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Depends:
+    R (>= 4.1.0)
+Imports:
+    nhlscraper (>= 0.7.0)
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+URL: https://rentosaijo.github.io/nhlplotter/, https://github.com/RentoSaijo/nhlplotter
+BugReports: https://github.com/RentoSaijo/nhlplotter/issues
+Copyright: NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams.
+RoxygenNote: 7.3.3

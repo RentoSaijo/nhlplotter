@@ -1,0 +1,35 @@
+url: https://rentosaijo.github.io/nhlplotter/
+
+template:
+  bootstrap: 5
+  bootswatch: cosmo
+  light-switch: true
+
+navbar:
+  title: "nhlplotter"
+  structure:
+    left: [intro, reference]
+    right: [search, github, lightswitch]
+  components:
+    intro:
+      icon: fa-home fa-lg
+      href: index.html
+      aria-label: Home
+    reference:
+      text: "Functions"
+      href: reference/index.html
+    github:
+      icon: fa-github
+      href: https://github.com/RentoSaijo/nhlplotter
+      aria-label: GitHub
+
+authors:
+  Rento Saijo:
+    href: https://github.com/RentoSaijo
+
+reference:
+  - title: "Package"
+    desc: >
+      Package overview and help
+    contents:
+      - nhlplotter
