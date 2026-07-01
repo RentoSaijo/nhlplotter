@@ -8,7 +8,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/RentoSaijo/nhlplotter/blob/HEAD/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/RentoSaijo/nhlplotter/blob/main/DESCRIPTION)
 
 Saijo R (2026). *nhlplotter: Plotter for National Hockey League Data*. R
 package version 0.0.0.9000, <https://rentosaijo.github.io/nhlplotter/>.

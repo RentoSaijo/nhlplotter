@@ -11,6 +11,7 @@ and preset plots.
 Install the development version from [GitHub](https://github.com/) with:
 
 ``` r
+
 install.packages('pak')
 pak::pak('RentoSaijo/nhlplotter')
 ```
