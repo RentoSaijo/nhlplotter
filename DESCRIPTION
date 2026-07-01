@@ -10,6 +10,8 @@ Depends:
     R (>= 4.1.0)
 Imports:
     nhlscraper (>= 0.7.0)
+Remotes:
+    RentoSaijo/nhlscraper
 Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
