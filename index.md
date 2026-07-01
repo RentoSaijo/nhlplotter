@@ -3,7 +3,7 @@
 <img src="logo.png" width=100 alt="nhlplotter Logo"/> </a><h2><strong>nhlplotter</strong></h2>
 </div>
 
-nhlplotter is an R package for visualizing National Hockey League data from the companion R package `nhlscraper`. It provides tools for custom and preset plots.
+`nhlplotter` is an R package for visualizing NHL data from the companion R package `nhlscraper`. It provides tools for custom and preset plots.
 
 ### Installation
 

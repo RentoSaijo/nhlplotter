@@ -6,9 +6,7 @@
 \alias{nhlplotter-package}
 \title{nhlplotter: Plotting tools for NHL data}
 \description{
-\code{nhlplotter} is an R package for plotting and visualizing National Hockey
-League data. It is currently a package skeleton with plotting interfaces to
-be added over time.
+\code{nhlplotter} is an R package for visualizing NHL data from the companion R package \code{nhlscraper}. It provides tools for custom and preset plots.
 }
 \seealso{
 Useful links:

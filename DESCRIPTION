@@ -2,7 +2,7 @@ Package: nhlplotter
 Title: Plotter for National Hockey League Data
 Version: 0.0.0.9000
 Authors@R: person('Rento', 'Saijo', email = 'rentosaijo0527@gmail.com', role = c('aut', 'cre', 'cph'), comment = c(ORCID = '0009-0008-4919-7349'))
-Description: Visualizes NHL data from the companion R package `nhlscraper` and provides tools for custom and preset plots.
+Description: Visualizes National Hockey League data from the companion `R` package `nhlscraper` and provides tools for custom and preset plots.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
