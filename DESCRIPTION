@@ -9,6 +9,7 @@ Roxygen: list(markdown = TRUE)
 Depends:
     R (>= 4.1.0)
 Imports:
+    ggplot2 (>= 3.4.0),
     nhlscraper (>= 0.7.0)
 Remotes:
     RentoSaijo/nhlscraper
@@ -18,4 +19,4 @@ Config/testthat/edition: 3
 URL: https://rentosaijo.github.io/nhlplotter/, https://github.com/RentoSaijo/nhlplotter
 BugReports: https://github.com/RentoSaijo/nhlplotter/issues
 Copyright: NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams.
-RoxygenNote: 7.3.3
+Config/roxygen2/version: 8.0.0

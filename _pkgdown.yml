@@ -33,3 +33,9 @@ reference:
       Package overview and help
     contents:
       - nhlplotter
+
+  - title: "Low-Level"
+    desc: >
+      Functions to draw custom plots
+    contents:
+      - draw_rink

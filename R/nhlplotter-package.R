@@ -1,6 +1,6 @@
 # Package Documentation ---------------------------------------------------------
 
-#' nhlplotter: Plotting tools for NHL data
+#' nhlplotter: Plotter for National Hockey League Data on R
 #'
 #' `nhlplotter` is an R package for visualizing NHL data from the companion R package `nhlscraper`. It provides tools for custom and preset plots.
 #'

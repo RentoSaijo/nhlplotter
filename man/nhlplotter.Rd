@@ -4,7 +4,7 @@
 \name{nhlplotter}
 \alias{nhlplotter}
 \alias{nhlplotter-package}
-\title{nhlplotter: Plotting tools for NHL data}
+\title{nhlplotter: Plotter for National Hockey League Data on R}
 \description{
 \code{nhlplotter} is an R package for visualizing NHL data from the companion R package \code{nhlscraper}. It provides tools for custom and preset plots.
 }
@@ -19,5 +19,10 @@ Useful links:
 }
 \author{
 \strong{Maintainer}: Rento Saijo \email{rentosaijo0527@gmail.com} (\href{https://orcid.org/0009-0008-4919-7349}{ORCID}) [copyright holder]
+
+Authors:
+\itemize{
+  \item Rento Saijo \email{rentosaijo0527@gmail.com} (\href{https://orcid.org/0009-0008-4919-7349}{ORCID}) [copyright holder]
+}
 
 }
